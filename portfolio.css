@@ -1,0 +1,209 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+    
+body{
+overflow: scroll;
+
+
+}
+#nav-bar{
+    width: 1350px;
+    height: 65px;
+    border: 1ps solid black;
+    background-color:indianred;
+
+}
+ul{
+    list-style-type: none;
+   
+}
+
+li{
+    display:inline;
+  
+}
+  
+   
+
+li a{
+    color:white;
+    font-size: 35px;
+    text-decoration: none;
+    float:right;
+    padding-right: 35px;
+    padding-top: 7px;;
+
+}
+.welcome-section{
+   
+    background-color: black;
+    height: 500px;
+    width: 1350px;
+ margin:0px;
+ padding: 0px;
+
+}
+.intro{
+    
+    padding-top: 100px;
+    text-align: center;
+    font-size:60px;
+    color:white;
+}
+.profession{
+    text-align: center;
+    font-size:40px;
+    color:crimson;  
+    padding-top: 90px; 
+}
+#projects{
+    background-color: DarkSlateBlue;
+    height: 1000px;
+    width: 1350px;
+}
+.propara{
+      
+    padding-top: 40px;
+    text-align: center;
+    font-size:60px;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.flex-container1 {
+    display: flex;
+    flex-direction: row;
+    padding:0px;
+   
+}
+.flex-container1 > div{
+    margin: 10px;
+    padding: 15px;
+    font-size: 30px;
+    
+    text-align: center;
+   
+ 
+  }
+  .flex-container2 {
+    display: flex;
+    flex-direction: row;
+    padding:0px;
+  }
+  .flex-container2 > div{
+    margin: 10px;
+    padding: 16px;
+    font-size: 30px;
+   
+    text-align: center;
+    
+  }
+  .pic1{
+      height:300px;
+      width:400px;
+  }
+  .pic2{
+    height:300px;
+    width:400px;
+}
+.pic3{
+    height:300px;
+    width:400px;
+}
+.pic4{
+    height:300px;
+    width:400px;
+}
+.pic5{
+    height:300px;
+    width:400px;
+}
+.pic6{
+    height:300px;
+    width:400px;
+}
+.tributepage{
+    color: white;
+    background-color: black;
+    height:50px;
+    width:400px;
+    border: 1px solid black;
+   
+}
+.randomquotemachine{
+    color: white;
+    background-color: black;
+    height:50px;
+    width:400px;
+    border: 1px solid black;
+   
+}
+.calculator{
+    color: white;
+    background-color: black;
+    height:50px;
+    width:400px;
+    border: 1px solid black;
+   }
+.map{
+    color: white;
+    background-color: black;
+    height:50px;
+    width:400px;
+    border: 1px solid black;
+   
+}
+.wikipedia{
+    color: white;
+    background-color: black;
+    height:50px;
+    width:400px;
+    border: 1px solid black;
+   
+}
+.tic-tac-toe{
+    color: white;
+    background-color: black;
+    height:50px;
+    width:400px;
+    border: 1px solid black;
+   
+}
+.footer{
+    color: white;
+    background-color:DarkSlateGrey;
+    width:1350px;
+    height: 300px;
+    font-size: 60px;
+    text-align: center;
+    padding:50px;
+    border-bottom: 6px solid indianred;
+    
+}
+
+.contact-links{
+    display: inline;
+
+
+}
+.btn-contact-details{
+ 
+   font-size: 25px;
+    color:white;
+}
+
+.lower-footer{
+    color:white;
+    background-color:DarkSlateGrey;
+    width:1350px;
+    height: 50px;
+    text-align: justify;
+    padding:20px;
+    font-size: 20px;
+
+}
+.right-txt{
+    text-align: right;
+    padding-right: 40px;
+}
